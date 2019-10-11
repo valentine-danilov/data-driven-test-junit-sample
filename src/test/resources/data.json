@@ -1,0 +1,16 @@
+{
+  "testCases": [
+    {
+      "input": "some data",
+      "expected": "some expected data"
+    },
+    {
+      "input": "some data",
+      "expected": "some expected data"
+    },
+    {
+      "input": "some data",
+      "expected": "some expected data"
+    }
+  ]
+}
